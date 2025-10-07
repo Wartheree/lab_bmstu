@@ -30,6 +30,7 @@ int main() {
     };
     students={ivan,anna,sergey};
 
+
     int task;
     std::cout << "select a task number ";  std::cin >> task;
     switch (task) {

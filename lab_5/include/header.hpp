@@ -36,4 +36,3 @@ std::vector<Student> VectorMathExcellent(const std::vector<Student>&);
 std::vector<std::string> GroupsId(const std::vector<Student>&);
 //задание 7
 std::vector<Group> Groups(const std::vector<Student>&);
-//задание 8
